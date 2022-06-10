@@ -35,4 +35,5 @@ class AMod(loader.Module):
 			for i in ["I", "I ❤️", "I ❤️ U", "I ❤️ U!"]:
 				await message.edit(f"<b>{i}</b>")
 				await sleep(0.5)
+aaaaaaaaaaaaa
 				
